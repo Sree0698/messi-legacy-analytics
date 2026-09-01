@@ -1,0 +1,38 @@
+period,scope,competition,league,appearances,goals,assists,trophies_won,result,approx_age,assist_share
+2004-05,Club,FC Barcelona,La Liga,9,1,0,1,,18,0.0
+2005-06,Club,FC Barcelona,La Liga,25,8,2,2,,19,0.2
+2006-07,Club,FC Barcelona,La Liga,36,17,7,0,,20,0.292
+2007-08,Club,FC Barcelona,La Liga,40,16,9,0,,21,0.36
+2008-09,Club,FC Barcelona,La Liga,51,38,18,3,,22,0.321
+2009-10,Club,FC Barcelona,La Liga,53,47,11,2,,23,0.19
+2010-11,Club,FC Barcelona,La Liga,55,53,24,3,,24,0.312
+2011-12,Club,FC Barcelona,La Liga,60,73,29,2,,25,0.284
+2012-13,Club,FC Barcelona,La Liga,50,60,12,1,,26,0.167
+2013-14,Club,FC Barcelona,La Liga,46,41,16,0,,27,0.281
+2014-15,Club,FC Barcelona,La Liga,57,58,27,3,,28,0.318
+2015-16,Club,FC Barcelona,La Liga,49,41,18,2,,29,0.305
+2016-17,Club,FC Barcelona,La Liga,52,54,16,0,,30,0.229
+2017-18,Club,FC Barcelona,La Liga,54,45,18,2,,31,0.286
+2018-19,Club,FC Barcelona,La Liga,50,51,19,2,,32,0.271
+2019-20,Club,FC Barcelona,La Liga,44,31,25,1,,33,0.446
+2020-21,Club,FC Barcelona,La Liga,47,38,14,1,,34,0.269
+2021-22,Club,Paris Saint-Germain,Ligue 1,34,11,15,1,,35,0.577
+2022-23,Club,Paris Saint-Germain,Ligue 1,41,21,20,1,,36,0.488
+2023,Club,Inter Miami CF,MLS,14,11,5,1,,36,0.312
+2024,Club,Inter Miami CF,MLS,32,20,16,1,,37,0.444
+2025,Club,Inter Miami CF,MLS,28,27,15,2,,38,0.357
+2026,Club,Inter Miami CF,MLS,20,18,9,0,,39,0.333
+2005,International,Senior debut / early caps,Argentina National Team,4,0,0,0,-,18,
+2006,International,FIFA World Cup,Argentina National Team,3,1,0,0,Quarter-final,19,0.0
+2007,International,Copa America,Argentina National Team,6,2,1,0,Runner-up,20,0.333
+2010,International,FIFA World Cup,Argentina National Team,5,0,0,0,Quarter-final,23,
+2011,International,Copa America,Argentina National Team,4,0,0,0,Quarter-final,24,
+2014,International,FIFA World Cup,Argentina National Team,7,4,1,0,Runner-up,27,0.2
+2015,International,Copa America,Argentina National Team,6,1,1,0,Runner-up,28,0.5
+2016,International,Copa America Centenario,Argentina National Team,5,5,4,0,Runner-up,29,0.444
+2018,International,FIFA World Cup,Argentina National Team,4,1,1,0,Round of 16,31,0.5
+2019,International,Copa America,Argentina National Team,5,1,1,0,Third place,32,0.5
+2021,International,Copa America,Argentina National Team,7,4,5,1,Champion,34,0.556
+2022,International,FIFA World Cup,Argentina National Team,7,7,3,1,Champion,35,0.3
+2024,International,Copa America,Argentina National Team,4,0,1,1,Champion,37,1.0
+2026,International,FIFA World Cup,Argentina National Team,7,8,2,0,Runner-up,39,0.2
