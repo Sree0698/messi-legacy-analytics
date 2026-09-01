@@ -1,9 +1,3 @@
--- ============================================================
--- Messi Legacy Analytics — SQL Analysis (Google BigQuery version)
--- Replace `messi_analytics` below with your own dataset name if different.
--- Tables expected: messi_analytics.club_stats, messi_analytics.international_stats
--- ============================================================
-
 -- 1. Goal contribution (G+A) per club season, ranked descending
 SELECT
     season,
