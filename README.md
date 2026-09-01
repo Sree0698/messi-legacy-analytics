@@ -1,7 +1,7 @@
 # Messi Legacy Analytics
 
 A full-stack data analytics retrospective on Lionel Messi's professional career —
-built across **Excel, SQL, Python, and Tableau** — timed to his retirement from
+built across **Excel, SQL and Python — timed to his retirement from
 international football with Argentina (August 31, 2026).
 
 > Note: Messi retired from the **Argentina national team**, not from club football.
@@ -26,9 +26,6 @@ messi-legacy-analytics/
 ├── excel/
 │   ├── build_workbook.py              # Generates the workbook programmatically
 │   └── Messi_Legacy_Analytics.xlsx    # Formula-driven workbook w/ charts + Creative Insights sheet
-├── tableau/
-│   ├── messi_tableau_extract.csv      # Unified extract for Tableau
-│   └── TABLEAU_DASHBOARD_SPEC.md      # Dashboard build spec
 └── visuals/                           # Exported PNG charts from the Python script
 ```
 
@@ -40,7 +37,6 @@ messi-legacy-analytics/
 | Analysis | SQL (SQLite) | CTEs, window functions (`RANK`, `SUM() OVER`, moving averages), trophy timeline |
 | Analysis & viz | Python / matplotlib | Career arc, cumulative goals, club comparison, tournament goals |
 | Reporting | Excel / openpyxl | Formula-driven summary workbook (SUMIF, ROUND) with native charts |
-| BI Dashboard | Tableau | Interactive career-arc dashboard with cross-filtering |
 
 ## Key Findings
 
@@ -57,12 +53,6 @@ messi-legacy-analytics/
 6. **Scorer to creator** — assist share of goal contributions rose from 21.3% (age 18-21) to 37.8% (age 37-39), a clear tactical evolution as he aged.
 7. **The 2016 preview** — his best tournament tally in a losing campaign (5 goals, 2016 Copa América Centenario) came five years before his first international trophy.
 
-## How to Reproduce
-```bash
-pip install pandas matplotlib openpyxl
-python sql/build_db.py
-python python/analysis.py
-python excel/build_workbook.py
 ```
 
 ## Author
